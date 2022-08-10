@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/CMakeFiles/googletest
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/CMakeFiles/googletest.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/CMakeFiles/googletest-complete.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/home/cezeri/Documents/WorkSpace/ci_cpp_project/tst/tst/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule

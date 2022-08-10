@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Factorial_test.dir/test.cpp.o CMakeFiles/Factorial_test.dir/__/src/Factorial.cpp.o -o Factorial_test  ../lib/libgtest_main.a ../lib/libgtest.a 
